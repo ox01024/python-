@@ -36,5 +36,5 @@
 # list2=list   将list列表贴上list2的名字 如果列表list改变则list2也会改变
 
 # 通过sort进行永久排序
-# list.sort() 通过首字母对列表list进行排序
+# list.sort()  使用指定方式对元素进行排序 默认为从大到小 首字母排序
 # list.sort(reverse=True)  反向为真则通过首字母倒着排序
